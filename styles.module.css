@@ -1,0 +1,19 @@
+.main{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.info {
+    margin-top: 10px;
+}
+
+.button{
+    margin-left: 5px;
+}
+
+.calculator{
+    margin: 20px;
+}
